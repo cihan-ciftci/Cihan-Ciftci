@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on change my life
+- 🌱 I’m currently learning how make a new world!!
+- 🤔 I’m looking for help with each other
+
+
 <!--
 **cihan-ciftci/Cihan-Ciftci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
