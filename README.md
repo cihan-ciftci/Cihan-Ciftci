@@ -1,28 +1,31 @@
-### Hi there 👋, Cihan Ciftci
-#### I’m currently working on change my life
- I’m currently learning how make a new world!!
-
-Skills: Html / Css / Java / Python / Selenium / Selenide / MySql / Sql / PostGreSQL
-
-- 🔭 I’m currently working on Python.. 
-- 🌱 I’m currently learning Software.. 
-- 🤔 I’m looking for help with each other.. 
-- 💬 Ask me about anything if i don't know i'll tell 
-- 😄 Pronouns: White Space 
-- ⚡ Fun fact: Read Manga 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Cihan-Ciftci)  
+![images](https://github.com/cihan-ciftci/Cihan-Ciftci/assets/110668204/29ba9ab5-c749-45a4-9dd4-adf57423c7a7)
+<h1 align="center">Hi 🖖, I'm Cihan Ciftci</h1>
+<h3 align="center">QA Automation Tester and To Become Java Developer</h3>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+- 🔭 I’m currently working on **Learning Java**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Cihan-Ciftci)](https://github.com/ryo-ma/github-profile-trophy)
+- 🌱 I’m currently learning **Java, Selenium,**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cihan-Ciftci)](https://github.com/anuraghazra/github-readme-stats)
+- 🤝 I’m looking for help with **Each Other**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cihan-Ciftci&show_icons=true)  
+- 💬 Ask me about **Java, Selenium**
 
-![GitHub metrics](https://metrics.lecoq.io/Cihan-Ciftci)  
+- 📫 How to reach me **ci.ciftci08@gmail.com**
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Cihan-Ciftci)  
+- ⚡ Fun fact **Read Manga**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/cihan ciftci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cihan ciftci" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cihan-ciftci&show_icons=true&locale=en&layout=compact" alt="cihan-ciftci" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cihan-ciftci&show_icons=true&locale=en" alt="cihan-ciftci" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cihan-ciftci&" alt="cihan-ciftci" /></p>
