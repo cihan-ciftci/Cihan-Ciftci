@@ -4,17 +4,17 @@
 <h1 align="center">Hi 🖖, I'm Cihan Ciftci</h1>
 <h3 align="center">QA Automation Tester and To Become Developer</h3>
 
-- 🔭 I’m currently working on **Learning Java**
+- 🔭 I’m currently working on **Learning Java,Kotlin**
 
-- 🌱 I’m currently learning **Java, Selenium,**
+- 🌱 I’m currently learning **Java,Kotlin,Selenium,**
 
 - 🤝 I’m looking for help with **Each Other**
 
-- 💬 Ask me about **Java, Selenium**
+- 💬 Ask me about **nothing,'notYet'**
 
 - 📫 How to reach me **ci.ciftci08@gmail.com**
 
-- ⚡ Fun fact **Read Manga**
+- ⚡ Fun fact **Manga**
 
  
 
