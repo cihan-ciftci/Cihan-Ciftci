@@ -2,7 +2,7 @@
 
 ![images](https://github.com/cihan-ciftci/Cihan-Ciftci/assets/110668204/29ba9ab5-c749-45a4-9dd4-adf57423c7a7)
 <h1 align="center">Hi 🖖, I'm Cihan Ciftci</h1>
-<h3 align="center">QA Automation Tester and To Become Java Developer</h3>
+<h3 align="center">QA Automation Tester and To Become Developer</h3>
 
 - 🔭 I’m currently working on **Learning Java**
 
